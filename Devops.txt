@@ -16,4 +16,3 @@ Key principles and practices of DevOps include:
 
 6.Monitoring and Logging: DevOps emphasizes the importance of monitoring and logging to gain insights into the performance, availability, and reliability of software systems in production. Monitoring tools collect metrics and alerts, while logging captures detailed information about system behavior and errors.
 
-7.Feedback Loop: DevOps encourages a feedback-driven approach where feedback from operations (e.g., monitoring data, incident reports) is used to inform and improve the development process. Similarly, feedback from users and stakeholders helps prioritize and refine development efforts.
